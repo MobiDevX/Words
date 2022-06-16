@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Words</string>
+    <string name="hint_text">Input word</string>
+    <string name="add_word">Add word</string>
 </resources>
